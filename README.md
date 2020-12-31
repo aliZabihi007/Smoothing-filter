@@ -1,0 +1,2 @@
+# Smoothing-filter
+Adaptive histogram equalization (AHE) is a computer image processing technique used to improve contrast in images. It is therefore suitable for improving the local contrast and enhancing the definitions of edges in each region of an image.    Linear smoothing filters are good filters for removing Gaussian noise and, in most cases, the other types of noise as well. A linear filter is implemented using the weighted sum of the pixels in successive windows
